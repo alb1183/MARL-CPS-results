@@ -1,0 +1,6 @@
+Generator: 10960.255953121388
+Service Motor piscina (4): 141.6 (78,7%)
+Service Videograbador (10): 1440.0 (100,0%)
+Service Internet (8): 1435.2 (99,7%)
+Service StreamServices (2): 1435.2 (99,7%)
+Service Fuente de agua (1): 357.6 (99,3%)

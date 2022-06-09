@@ -1,0 +1,45 @@
+Dummy:
+	- Completo: 20180
+	- Consumo puntual: 16695
+	- Sombra: 5880
+	- Nada: 2395
+	
+	
+Greedy:
+	- Completo: 7502
+		72,0%, 100%, 100%, 100%, 49,3%
+		
+	- Consumo puntual: 6027
+		76%, 100%, 100%, 100%, 53,3%
+		
+	- Sombra: 0
+		90.7%, 100%, 100%, 100%, 39,3%
+		
+	- Nada: 0 
+		100%, 100%, 100%, 100%, 39,3%
+	
+	
+RL:
+	- Completo: 14680, 10960, 7320, 7335, 7415
+		88%, 99.8%, 100%, 100%, 98.7%
+		78.7%, 100%, 99.7%, 99.7%, 99.3%
+		70.7%, 100%, 99.7%, 99.8%, 98.0%
+		70.7%, 99.7%, 99.8%, 99.0%, 98.7%
+		70.7%, 100%, 100%, 99.2%, 99.3%
+		
+	- Consumo puntual: 5250
+		73.3%, 99.8%, 99.8%, 100%, 100%
+		
+	- Sombra: 47
+		86.7%, 99.7%, 99.8%, 99.5%, 100%
+		
+	- Nada: 0
+		93.3%, 100%, 99.8%, 99.3%, 98.7%
+	
+	
+Servicios (prioridad):
+	Service Motor piscina (4)
+	Service Videograbador (10)
+	Service Internet (8)
+	Service StreamServices (2)
+	Service Fuente de agua (1)
