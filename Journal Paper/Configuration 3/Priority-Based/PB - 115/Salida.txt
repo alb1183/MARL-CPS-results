@@ -1,0 +1,9 @@
+Simulacion de 25 dias (36000 minutos)
+Salida grabada con exito.
+Generator: 115.34854189047034
+Service Kubernetes-cluster (10): 1423.2 (98,8%)
+Service Internet (9): 1404.0 (97,5%)
+Service VPN-router (8): 1375.2 (95,5%)
+Service Dashboard-services (4): 1255.2 (87,2%)
+Service Game-servers (2): 1135.2 (78,8%)
+Service Dashboard-displays (1): 192.0 (40,0%)

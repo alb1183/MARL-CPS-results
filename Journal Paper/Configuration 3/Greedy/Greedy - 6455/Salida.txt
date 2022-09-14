@@ -1,0 +1,7 @@
+Generator: 6455.198086603176
+Service Kubernetes-cluster (10): 1440.0 (100,0%)
+Service Internet (9): 1440.0 (100,0%)
+Service VPN-router (8): 1440.0 (100,0%)
+Service Dashboard-services (4): 1440.0 (100,0%)
+Service Game-servers (2): 1440.0 (100,0%)
+Service Dashboard-displays (1): 211.2 (44,0%)

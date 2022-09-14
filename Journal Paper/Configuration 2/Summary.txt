@@ -1,0 +1,28 @@
+Dummy:
+	- Completo: 23227
+	
+
+Priority-Based:
+	- Completo: 4828
+		98,7%, 67,8%, 75,5%, 60,2%, 51,3%
+	
+
+Greedy:
+	- Completo: 13659
+		100%, 100%, 100%, 43.3%, 100%
+	
+	
+RL:
+	- Completo: 10036, 8010, 7450, 7325
+		98.7%, 81.2%, 93.7%, 64.0%, 100%
+		94.7%, 80.0%, 93.8%, 60.8%, 100%
+		92.0%, 79.7%, 94.2%, 61.7%, 100%
+		92.0%, 80.2%, 93.7%, 61.3%, 99.3%
+	
+	
+Servicios (prioridad):
+	Service Motor piscina (8)
+	Service Videograbador (2)
+	Service Internet (3)
+	Service StreamServices (1)
+	Service Fuente de agua (6)

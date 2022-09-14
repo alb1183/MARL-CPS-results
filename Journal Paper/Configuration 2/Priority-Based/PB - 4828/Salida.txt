@@ -1,0 +1,8 @@
+Simulacion de 25 dias (36000 minutos)
+Salida grabada con exito.
+Generator: 4828.313573216867
+Service Motor piscina (8): 177.6 (98,7%)
+Service Videograbador (2): 976.8 (67,8%)
+Service Internet (3): 1087.2 (75,5%)
+Service StreamServices (1): 866.4 (60,2%)
+Service Fuente de agua (6): 184.8 (51,3%)

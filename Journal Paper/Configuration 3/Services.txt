@@ -1,0 +1,7 @@
+Servicios:
+	Service Kubernetes-cluster (10): 150 Wh
+	Service Internet (9): 25 Wh
+	Service VPN-router (8): 15 Wh
+	Service Dashboard-services (4): 50 Wh
+	Service Game-servers (2): 140 Wh
+	Service Dashboard-displays (1): 180 Wh, encendido de 10 a 18

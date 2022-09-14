@@ -1,0 +1,11 @@
+Servicios no administrables (no inteligentes)
+	Luces valla: 15.0 Wh, Encendido de 20 a 8.
+	Luces fachada: 10.0 Wh, Encendido de 20 a 8.
+	Frigorifico: 120.0 Wh, siempre encendido
+
+Servicios administrables/inteligentes (por defecto estan apagados menos los de ejecucion 24h):
+	Motor piscina: 400Wh y prioridad 8; De 9 a 17, max 3h
+	Videograbador: 40Wh y prioridad 2;
+	Internet: 50Wh y prioridad 3;
+	StreamServices: 30Wh y prioridad 1;
+	Fuente de agua: 35Wh y prioridad 6; De 9 a 15
