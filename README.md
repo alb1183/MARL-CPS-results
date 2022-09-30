@@ -14,14 +14,8 @@ To cite, please use the following format:
 The folder structure of the repository is organised as follows:
 
     .
-    ├── WF-IoT 2022                          # Results of the conference paper for IEEE 8th World Forum on Internet of Things
-    │   └── Root                             # 
-    │      ├── Dummy                         # 
-    │      ├── Greedy                        # 
-    │      └── RL                            # 
-    │          ├── 1º                        # 
-    │          ├── ...                       # 
-    │          └── 5º                        # 
+    ├── Conference                 # Results of the conference paper
+    │   └── README                 # 
     |
-    └── ...                                  # Results of the paper for ..
-    
+    └── Journal Paper              # Results of the journal extended paper
+        └── README                 # 

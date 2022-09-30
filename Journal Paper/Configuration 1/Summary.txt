@@ -1,4 +1,4 @@
-Dummy:
+Basic:
 	- Completo: 20180
 	- Consumo puntual: 16695
 	- Sombra: 5880
